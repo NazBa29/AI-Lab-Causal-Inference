@@ -1,0 +1,117 @@
+======================================================================
+NAIVE OLS
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       INNOVATION_SCORE   R-squared:                       0.195
+Model:                            OLS   Adj. R-squared:                  0.183
+Method:                 Least Squares   F-statistic:                     16.93
+Date:                Wed, 29 Apr 2026   Prob (F-statistic):           0.000104
+Time:                        20:19:57   Log-Likelihood:                -243.86
+No. Observations:                  72   AIC:                             491.7
+Df Residuals:                      70   BIC:                             496.3
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           45.6845      4.211     10.849      0.000      37.286      54.083
+AI_INTENSITY     0.3245      0.079      4.115      0.000       0.167       0.482
+==============================================================================
+Omnibus:                        3.722   Durbin-Watson:                   1.997
+Prob(Omnibus):                  0.156   Jarque-Bera (JB):                2.079
+Skew:                          -0.145   Prob(JB):                        0.354
+Kurtosis:                       2.219   Cond. No.                         263.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+FIRST STAGE (AI_INTENSITY ~ DISTANCE_TO_NODE)
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           AI_INTENSITY   R-squared:                       0.431
+Model:                            OLS   Adj. R-squared:                  0.423
+Method:                 Least Squares   F-statistic:                     53.11
+Date:                Wed, 29 Apr 2026   Prob (F-statistic):           3.72e-10
+Time:                        20:19:57   Log-Likelihood:                -253.47
+No. Observations:                  72   AIC:                             510.9
+Df Residuals:                      70   BIC:                             515.5
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const               67.6490      2.324     29.105      0.000      63.013      72.285
+DISTANCE_TO_NODE    -0.0189      0.003     -7.288      0.000      -0.024      -0.014
+==============================================================================
+Omnibus:                        0.336   Durbin-Watson:                   1.635
+Prob(Omnibus):                  0.845   Jarque-Bera (JB):                0.294
+Skew:                           0.148   Prob(JB):                        0.863
+Kurtosis:                       2.900   Cond. No.                     2.13e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.13e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+First-stage F-statistic: 53.11
+
+======================================================================
+2SLS (instrumental variable)
+======================================================================
+                          IV-2SLS Estimation Summary                          
+==============================================================================
+Dep. Variable:       INNOVATION_SCORE   R-squared:                      0.1112
+Estimator:                    IV-2SLS   Adj. R-squared:                 0.0985
+No. Observations:                  72   F-statistic:                    0.7937
+Date:                Wed, Apr 29 2026   P-value (F-stat)                0.3730
+Time:                        20:19:55   Distribution:                  chi2(1)
+Cov. Estimator:                robust                                         
+                                                                              
+                              Parameter Estimates                               
+================================================================================
+              Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+--------------------------------------------------------------------------------
+const            56.799     6.6477     8.5441     0.0000      43.769      69.828
+AI_INTENSITY     0.1119     0.1256     0.8909     0.3730     -0.1343      0.3582
+================================================================================
+
+Endogenous: AI_INTENSITY
+Instruments: DISTANCE_TO_NODE
+Robust Covariance (Heteroskedastic)
+Debiased: False
+
+======================================================================
+RDD at cutoff = 85
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       INNOVATION_SCORE   R-squared:                       0.949
+Model:                            OLS   Adj. R-squared:                  0.947
+Method:                 Least Squares   F-statistic:                     426.1
+Date:                Wed, 29 Apr 2026   Prob (F-statistic):           5.31e-44
+Time:                        20:19:58   Log-Likelihood:                -144.17
+No. Observations:                  72   AIC:                             296.3
+Df Residuals:                      68   BIC:                             305.5
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const            60.4096      0.505    119.677      0.000      59.402      61.417
+TREATED           8.4873      0.763     11.124      0.000       6.965      10.010
+RUNNING           0.8761      0.091      9.612      0.000       0.694       1.058
+TREATED_X_RUN    -0.2907      0.142     -2.053      0.044      -0.573      -0.008
+==============================================================================
+Omnibus:                       14.465   Durbin-Watson:                   1.625
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):                4.358
+Skew:                           0.243   Prob(JB):                        0.113
+Kurtosis:                       1.897   Cond. No.                         23.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
