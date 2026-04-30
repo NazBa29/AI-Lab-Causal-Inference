@@ -1,0 +1,74 @@
+0,1,2,3,4
+TEAM_REF,HOME_BASE,NETWORK_ZONE,DISTANCE_TO_NODE,ASSIGNMENT_NOTE
+SC001Anteater Cart,Mesa Court West,Dorm uplink A,201 m,Housing export preserved the original backbone routing label.
+SC002Mesa Cart,Middle Earth Towers,Residential switch B,0.33 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC003Zot Cart,Campus Village,Student village relay,~0.59km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC004Bren Cart,Plaza Verde,ACC uplink east,Distance: 827 meters,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC005Petr Cart,Arroyo Vista,Greek village relay,0.81 km | fiber hop,Housing export preserved the original backbone routing label.
+SC006Ring Cart,Verano Place,Graduate housing switch,"1,100 meters (sync route)",Administrative placement log was finalized before spring showcase scoring.
+SC007Blue Cart,Stanford Court,UTC west relay,"1,156 m",Distance field kept the archive unit exactly as shown in the facilities pull.
+SC008Gold Cart,Berkeley Court,UTC south relay,1.32 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC009Arc Cart,Mesa Court West,Dorm uplink A,~0.28km,Housing export preserved the original backbone routing label.
+SC010Bridge Cart,Middle Earth Towers,Residential switch B,Distance: 428 meters,Administrative placement log was finalized before spring showcase scoring.
+SC011Open Cart,Campus Village,Student village relay,0.66 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC012Signal Cart,Plaza Verde,ACC uplink east,718 meters (sync route),Student hub was matched to the nearest sync cabinet used by the incubator.
+SC013Anteater Pulse,Arroyo Vista,Greek village relay,873 m,Housing export preserved the original backbone routing label.
+SC014Mesa Pulse,Verano Place,Graduate housing switch,1.07 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC015Zot Pulse,Stanford Court,UTC west relay,~1.13km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC016Bren Pulse,Berkeley Court,UTC south relay,"Distance: 1,454 meters",Student hub was matched to the nearest sync cabinet used by the incubator.
+SC017Petr Pulse,Mesa Court West,Dorm uplink A,0.28 km | fiber hop,Housing export preserved the original backbone routing label.
+SC018Ring Pulse,Middle Earth Towers,Residential switch B,355 meters (sync route),Administrative placement log was finalized before spring showcase scoring.
+SC019Blue Pulse,Campus Village,Student village relay,584 m,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC020Gold Pulse,Plaza Verde,ACC uplink east,0.88 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC021Arc Pulse,Arroyo Vista,Greek village relay,~0.89km,Housing export preserved the original backbone routing label.
+SC022Bridge Pulse,Verano Place,Graduate housing switch,"Distance: 1,094 meters",Administrative placement log was finalized before spring showcase scoring.
+SC023Open Pulse,Stanford Court,UTC west relay,1.26 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC024Signal Pulse,Berkeley Court,UTC south relay,"1,484 meters (sync route)",Student hub was matched to the nearest sync cabinet used by the incubator.
+SC025Anteater Loop,Mesa Court West,Dorm uplink A,289 m,Housing export preserved the original backbone routing label.
+SC026Mesa Loop,Middle Earth Towers,Residential switch B,0.42 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC027Zot Loop,Campus Village,Student village relay,~0.59km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC028Bren Loop,Plaza Verde,ACC uplink east,Distance: 710 meters,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC029Petr Loop,Arroyo Vista,Greek village relay,0.84 km | fiber hop,Housing export preserved the original backbone routing label.
+SC030Ring Loop,Verano Place,Graduate housing switch,952 meters (sync route),Administrative placement log was finalized before spring showcase scoring.
+SC031Blue Loop,Stanford Court,UTC west relay,"1,185 m",Distance field kept the archive unit exactly as shown in the facilities pull.
+SC032Gold Loop,Berkeley Court,UTC south relay,1.45 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC033Arc Loop,Mesa Court West,Dorm uplink A,~0.31km,Housing export preserved the original backbone routing label.
+SC034Bridge Loop,Middle Earth Towers,Residential switch B,Distance: 482 meters,Administrative placement log was finalized before spring showcase scoring.
+SC035Open Loop,Campus Village,Student village relay,0.55 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC036Signal Loop,Plaza Verde,ACC uplink east,780 meters (sync route),Student hub was matched to the nearest sync cabinet used by the incubator.
+SC037Anteater Market,Arroyo Vista,Greek village relay,859 m,Housing export preserved the original backbone routing label.
+SC038Mesa Market,Verano Place,Graduate housing switch,1.03 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC039Zot Market,Stanford Court,UTC west relay,~1.23km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC040Bren Market,Berkeley Court,UTC south relay,"Distance: 1,463 meters",Student hub was matched to the nearest sync cabinet used by the incubator.
+SC041Petr Market,Mesa Court West,Dorm uplink A,0.23 km | fiber hop,Housing export preserved the original backbone routing label.
+SC042Ring Market,Middle Earth Towers,Residential switch B,386 meters (sync route),Administrative placement log was finalized before spring showcase scoring.
+SC043Blue Market,Campus Village,Student village relay,534 m,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC044Gold Market,Plaza Verde,ACC uplink east,0.87 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC045Arc Market,Arroyo Vista,Greek village relay,~0.76km,Housing export preserved the original backbone routing label.
+SC046Bridge Market,Verano Place,Graduate housing switch,"Distance: 1,029 meters",Administrative placement log was finalized before spring showcase scoring.
+SC047Open Market,Stanford Court,UTC west relay,1.22 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC048Signal Market,Berkeley Court,UTC south relay,"1,311 meters (sync route)",Student hub was matched to the nearest sync cabinet used by the incubator.
+SC049Anteater Match,Mesa Court West,Dorm uplink A,226 m,Housing export preserved the original backbone routing label.
+SC050Mesa Match,Middle Earth Towers,Residential switch B,0.37 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC051Zot Match,Campus Village,Student village relay,~0.60km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC052Bren Match,Plaza Verde,ACC uplink east,Distance: 859 meters,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC053Petr Match,Arroyo Vista,Greek village relay,0.92 km | fiber hop,Housing export preserved the original backbone routing label.
+SC054Ring Match,Verano Place,Graduate housing switch,"1,037 meters (sync route)",Administrative placement log was finalized before spring showcase scoring.
+SC055Blue Match,Stanford Court,UTC west relay,"1,211 m",Distance field kept the archive unit exactly as shown in the facilities pull.
+SC056Gold Match,Berkeley Court,UTC south relay,1.36 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC057Arc Match,Mesa Court West,Dorm uplink A,~0.22km,Housing export preserved the original backbone routing label.
+SC058Bridge Match,Middle Earth Towers,Residential switch B,Distance: 374 meters,Administrative placement log was finalized before spring showcase scoring.
+SC059Open Match,Campus Village,Student village relay,0.61 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC060Signal Match,Plaza Verde,ACC uplink east,861 meters (sync route),Student hub was matched to the nearest sync cabinet used by the incubator.
+SC061Anteater Board,Arroyo Vista,Greek village relay,872 m,Housing export preserved the original backbone routing label.
+SC062Mesa Board,Verano Place,Graduate housing switch,0.98 km from backbone,Administrative placement log was finalized before spring showcase scoring.
+SC063Zot Board,Stanford Court,UTC west relay,~1.17km,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC064Bren Board,Berkeley Court,UTC south relay,"Distance: 1,485 meters",Student hub was matched to the nearest sync cabinet used by the incubator.
+SC065Petr Board,Mesa Court West,Dorm uplink A,0.15 km | fiber hop,Housing export preserved the original backbone routing label.
+SC066Ring Board,Middle Earth Towers,Residential switch B,345 meters (sync route),Administrative placement log was finalized before spring showcase scoring.
+SC067Blue Board,Campus Village,Student village relay,629 m,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC068Gold Board,Plaza Verde,ACC uplink east,0.71 km from backbone,Student hub was matched to the nearest sync cabinet used by the incubator.
+SC069Arc Board,Arroyo Vista,Greek village relay,~0.76km,Housing export preserved the original backbone routing label.
+SC070Bridge Board,Verano Place,Graduate housing switch,Distance: 947 meters,Administrative placement log was finalized before spring showcase scoring.
+SC071Open Board,Stanford Court,UTC west relay,1.20 km | fiber hop,Distance field kept the archive unit exactly as shown in the facilities pull.
+SC072Signal Board,Berkeley Court,UTC south relay,"1,468 meters (sync route)",Student hub was matched to the nearest sync cabinet used by the incubator.

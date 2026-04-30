@@ -1,0 +1,74 @@
+0,1,2,3,4
+TEAM_REF,TRACK,AI_INTENSITY,INNOVATION_SCORE,SPRING_NOTE
+SC001Anteater Cart,Campus Commerce,52.4 gpu-hrs/wk,61.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC002Mesa Cart,Creator Tools,~57.1 model hrs,57.9 score,Archive note says a hackathon week may have inflated some compute logs.
+SC003Zot Cart,Mobility,62.9 builder hours,73.7 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC004Bren Cart,Campus Commerce,65.8 gpu-hrs/wk,72.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC005Petr Cart,Creator Tools,~59.7 model hrs,57.1 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC006Ring Cart,Mobility,55.5 builder hours,59.3 score,Archive note says a hackathon week may have inflated some compute logs.
+SC007Blue Cart,Campus Commerce,58.7 gpu-hrs/wk,72.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC008Gold Cart,Creator Tools,~46.3 model hrs,52.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC009Arc Cart,Mobility,142.0 builder hours,72.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC010Bridge Cart,Campus Commerce,68.2 gpu-hrs/wk,61.0 score,Archive note says a hackathon week may have inflated some compute logs.
+SC011Open Cart,Creator Tools,~50.2 model hrs,54.4 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC012Signal Cart,Mobility,55.1 builder hours,61.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC013Anteater Pulse,Campus Commerce,42.8 gpu-hrs/wk,57.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC014Mesa Pulse,Creator Tools,~44.3 model hrs,53.0 score,Archive note says a hackathon week may have inflated some compute logs.
+SC015Zot Pulse,Mobility,45.6 builder hours,69.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC016Bren Pulse,Campus Commerce,34.1 gpu-hrs/wk,51.8 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC017Petr Pulse,Creator Tools,~52.3 model hrs,54.8 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC018Ring Pulse,Mobility,72.1 builder hours,75.3 score,Archive note says a hackathon week may have inflated some compute logs.
+SC019Blue Pulse,Campus Commerce,64.0 gpu-hrs/wk,54.4 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC020Gold Pulse,Creator Tools,~45.5 model hrs,57.9 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC021Arc Pulse,Mobility,61.6 builder hours,72.9 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC022Bridge Pulse,Campus Commerce,42.3 gpu-hrs/wk,57.0 score,Archive note says a hackathon week may have inflated some compute logs.
+SC023Open Pulse,Creator Tools,~39.6 model hrs,52.8 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC024Signal Pulse,Mobility,43.8 builder hours,69.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC025Anteater Loop,Campus Commerce,67.0 gpu-hrs/wk,72.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC026Mesa Loop,Creator Tools,~64.9 model hrs,58.1 score,Archive note says a hackathon week may have inflated some compute logs.
+SC027Zot Loop,Mobility,54.0 builder hours,56.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC028Bren Loop,Campus Commerce,48.3 gpu-hrs/wk,59.2 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC029Petr Loop,Creator Tools,~36.8 model hrs,57.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC030Ring Loop,Mobility,49.8 builder hours,53.3 score,Archive note says a hackathon week may have inflated some compute logs.
+SC031Blue Loop,Campus Commerce,48.6 gpu-hrs/wk,50.8 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC032Gold Loop,Creator Tools,~49.7 model hrs,69.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC033Arc Loop,Mobility,54.6 builder hours,73.8 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC034Bridge Loop,Campus Commerce,66.2 gpu-hrs/wk,77.5 score,Archive note says a hackathon week may have inflated some compute logs.
+SC035Open Loop,Creator Tools,~59.4 model hrs,72.3 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC036Signal Loop,Mobility,46.2 builder hours,51.8 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC037Anteater Market,Campus Commerce,38.5 gpu-hrs/wk,57.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC038Mesa Market,Creator Tools,~44.9 model hrs,53.6 score,Archive note says a hackathon week may have inflated some compute logs.
+SC039Zot Market,Mobility,40.5 builder hours,57.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC040Bren Market,Campus Commerce,41.1 gpu-hrs/wk,70.1 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC041Petr Market,Creator Tools,~55.7 model hrs,61.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC042Ring Market,Mobility,142.7 builder hours,51.7 score,Archive note says a hackathon week may have inflated some compute logs.
+SC043Blue Market,Campus Commerce,60.5 gpu-hrs/wk,73.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC044Gold Market,Creator Tools,~54.7 model hrs,70.6 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC045Arc Market,Mobility,51.0 builder hours,58.8 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC046Bridge Market,Campus Commerce,35.0 gpu-hrs/wk,48.2 score,Archive note says a hackathon week may have inflated some compute logs.
+SC047Open Market,Creator Tools,~26.3 model hrs,52.2 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC048Signal Market,Mobility,40.9 builder hours,57.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC049Anteater Match,Campus Commerce,61.6 gpu-hrs/wk,69.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC050Mesa Match,Creator Tools,~64.4 model hrs,60.8 score,Archive note says a hackathon week may have inflated some compute logs.
+SC051Zot Match,Mobility,55.2 builder hours,69.7 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC052Bren Match,Campus Commerce,45.8 gpu-hrs/wk,52.4 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC053Petr Match,Creator Tools,~48.5 model hrs,69.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC054Ring Match,Mobility,53.4 builder hours,70.5 score,Archive note says a hackathon week may have inflated some compute logs.
+SC055Blue Match,Campus Commerce,58.7 gpu-hrs/wk,72.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC056Gold Match,Creator Tools,~47.0 model hrs,69.0 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC057Arc Match,Mobility,60.9 builder hours,60.1 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC058Bridge Match,Campus Commerce,44.4 gpu-hrs/wk,57.5 score,Archive note says a hackathon week may have inflated some compute logs.
+SC059Open Match,Creator Tools,~59.5 model hrs,70.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC060Signal Match,Mobility,53.7 builder hours,69.7 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC061Anteater Board,Campus Commerce,56.7 gpu-hrs/wk,61.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC062Mesa Board,Creator Tools,~43.9 model hrs,69.0 score,Archive note says a hackathon week may have inflated some compute logs.
+SC063Zot Board,Mobility,41.7 builder hours,69.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC064Bren Board,Campus Commerce,49.9 gpu-hrs/wk,71.6 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC065Petr Board,Creator Tools,~56.3 model hrs,57.9 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC066Ring Board,Mobility,69.0 builder hours,77.5 score,Archive note says a hackathon week may have inflated some compute logs.
+SC067Blue Board,Campus Commerce,55.1 gpu-hrs/wk,59.1 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC068Gold Board,Creator Tools,~57.1 model hrs,72.7 score,Innovation review kept the original mixed score formatting from the incubator export.
+SC069Arc Board,Mobility,41.7 builder hours,57.0 / 100,Usage load reflects model prototyping during the winter and spring build cycle.
+SC070Bridge Board,Campus Commerce,50.8 gpu-hrs/wk,61.0 score,Archive note says a hackathon week may have inflated some compute logs.
+SC071Open Board,Creator Tools,~32.5 model hrs,57.0 / 100,Metrics were pulled after demo day QA and were not unit-normalized.
+SC072Signal Board,Mobility,37.9 builder hours,69.0 score,Innovation review kept the original mixed score formatting from the incubator export.
